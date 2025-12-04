@@ -19,6 +19,6 @@
     position: fixed;
     top: 0;
     left: 0;
-    animation: coolAnimation 10s normal 2s infinite;
+    /* animation: coolAnimation 10s normal 2s infinite; */
     z-index: -1;
 }
